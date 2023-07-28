@@ -18,5 +18,7 @@ This repository includes the problems solved during the Fundamentals course. I h
   -Spring Fundamentals - January 2023 (Grade: 6.00)
 
   -Spring Advanced - February 2023 (Grade: 5.94)
+  
+  -HTML and CSS - May 2023 (Grade:6.00)
 
 
