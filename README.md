@@ -21,4 +21,6 @@ This repository includes the problems solved during the Fundamentals course. I h
   
   -HTML and CSS - May 2023 (Grade:6.00)
 
+  -JS Front-End - June 2023 (Grade:6.00)
+
 
